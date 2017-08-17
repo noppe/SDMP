@@ -1,0 +1,16 @@
+PKG=CSWmcollective
+NAME=mcollective - Mcollective orchestration tool
+ARCH=all
+VERSION=2.11.1,REV=2017.08.11
+CATEGORY=application
+VENDOR=https://github.com/puppetlabs/marionette-collective/archive/ packaged for CSW by Nils Olof Paulsson
+EMAIL=nilpa76@liu.se
+PSTAMP=noppe@test1-20170811134330
+CLASSES=none cswusergroup cswinitsmf
+HOTLINE=http://www.opencsw.org/bugtrack/
+OPENCSW_CATALOGNAME=mcollective
+OPENCSW_MODE64=32
+OPENCSW_REPOSITORY=https://svn.code.sf.net/p/gar/code/csw/mgar/pkg/mcollective/trunk@UNCOMMITTED
+OPENCSW_BUNDLE=mcollective
+OPENCSW_OS_RELEASE=SunOS5.10
+OPENCSW_OS_ARCH=i386

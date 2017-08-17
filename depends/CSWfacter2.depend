@@ -1,0 +1,4 @@
+I CSWfacter-ruby18
+I CSWfacter
+P CSWcommon common - common files and dirs for CSW packages
+P CSWruby24 ruby24 - Ruby 2.4.x

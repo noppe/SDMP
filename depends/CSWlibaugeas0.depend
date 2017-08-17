@@ -1,0 +1,4 @@
+P CSWcommon common - common files and dirs for CSW packages
+P CSWlibfa1 libfa1 - The libfa.so.* files
+P CSWlibxml2-2 libxml2_2 - XML Parser Library
+P CSWlibgcc-s1 libgcc_s1 - The GNU Compiler Collection, libgcc_s.so.1

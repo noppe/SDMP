@@ -1,0 +1,13 @@
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/pathname.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/fileutils.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/shell.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/rubygems/installer.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/rubygems/basic_specification.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/rubygems/specification.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/tkextlib/itcl/setup.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/tkextlib/itk/setup.rb
+CSWruby24: file-with-bad-content /usr/share root/opt/csw/lib/ruby/2.4.0/open3.rb
+CSWruby24: file-with-bad-content /usr/share root/opt/csw/lib/ruby/2.4.0/tk/dialog.rb
+CSWruby24: shared-lib-package-contains-so-symlink file=/opt/csw/lib/libruby2.4.1.so
+CSWruby24: shared-lib-pkgname-mismatch file=opt/csw/lib/libruby2.4.1.so.2 soname=libruby2.4.1.so.2 pkgname=CSWruby24 expected=CSWlibruby2-4-1-2
+CSWruby24: missing-dependency CSWlibruby1-9-1-1 or CSWruby or CSWruby18 or CSWruby191

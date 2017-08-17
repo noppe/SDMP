@@ -1,0 +1,14 @@
+I CSWfacter
+I CSWfacter-ruby18
+I CSWpuppet
+I CSWpuppet3
+I CSWpuppetmaster
+I CSWpuppetmaster3
+P CSWcas-initsmf cas_initsmf - The initsmf class action script for CSW packages
+P CSWcas-preserveconf cas_preserveconf - The preserveconf class action script for CSW packages
+P CSWcas-usergroup cas_usergroup - The usergroup class action script for CSW packages
+P CSWcommon common - common files and dirs for CSW packages
+P CSWisaexec isaexec - sneaky wrapper around Sun isaexec
+P CSWlibgcc-s1 libgcc_s1 - The GNU Compiler Collection, libgcc_s.so.1
+P CSWlibreadline6 libreadline6 - GNU readline library, libreadline.so.6
+P CSWlibxml2-2 libxml2_2 - XML Parser Library

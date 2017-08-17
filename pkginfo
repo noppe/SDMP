@@ -1,0 +1,15 @@
+PKG=SuperDuperMcPuppet
+NAME=McPuppet - mcollective and puppet and prerequisites wrapped in a tasty package 
+ARCH=i386
+VERSION=1.8.0,REV=2017.08.11
+CATEGORY=application
+VENDOR=http://home.sweet.home packaged for CSW by Nils Olof Paulsson
+EMAIL=nilpa76@liu.se
+PSTAMP=noppe@test1-20170811131841
+CLASSES=none
+HOTLINE=http://www.opencsw.org/bugtrack/
+OPENCSW_CATALOGNAME=mcpuppet
+OPENCSW_MODE64=32/64
+OPENCSW_BUNDLE=mcpuppet
+OPENCSW_OS_RELEASE=SunOS5.10
+OPENCSW_OS_ARCH=i386

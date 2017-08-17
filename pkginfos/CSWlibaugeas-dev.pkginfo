@@ -1,0 +1,16 @@
+PKG=CSWlibaugeas-dev
+NAME=libaugeas_dev - The libaugeas development files
+ARCH=i386
+VERSION=1.8.0,REV=2017.08.11
+CATEGORY=application
+VENDOR=http://augeas.net packaged for CSW by Nils Olof Paulsson
+EMAIL=nilpa76@liu.se
+PSTAMP=noppe@test1-20170811131841
+CLASSES=none
+HOTLINE=http://www.opencsw.org/bugtrack/
+OPENCSW_CATALOGNAME=libaugeas_dev
+OPENCSW_MODE64=32/64
+OPENCSW_REPOSITORY=https://svn.code.sf.net/p/gar/code/csw/mgar/pkg/augeas/trunk@UNCOMMITTED
+OPENCSW_BUNDLE=augeas
+OPENCSW_OS_RELEASE=SunOS5.10
+OPENCSW_OS_ARCH=i386

@@ -1,0 +1,6 @@
+d none /opt/csw/share/doc/puppetmaster4 0755 root bin
+f none /opt/csw/share/doc/puppetmaster4/license 0644 root bin
+i checkpkg_override=checkpkg_override.CSWpuppetmaster4
+i copyright=CSWpuppetmaster4.copyright
+i depend=CSWpuppetmaster4.depend
+i pkginfo=CSWpuppetmaster4.pkginfo

@@ -1,0 +1,9 @@
+s none /opt/csw/lib/amd64/libfa.so.1=libfa.so.1.4.4
+f none /opt/csw/lib/amd64/libfa.so.1.4.4 0755 root bin
+s none /opt/csw/lib/libfa.so.1=libfa.so.1.4.4
+f none /opt/csw/lib/libfa.so.1.4.4 0755 root bin
+d none /opt/csw/share/doc/libfa1 0755 root bin
+f none /opt/csw/share/doc/libfa1/license 0644 root bin
+i copyright=CSWlibfa1.copyright
+i depend=CSWlibfa1.depend
+i pkginfo=CSWlibfa1.pkginfo

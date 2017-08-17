@@ -1,0 +1,4 @@
+P CSWcommon common - common files and dirs for CSW packages
+P CSWruby24 ruby24 - Ruby 2.4.x
+P CSWlibaugeas0 libaugeas0 - The libaugeas.so.* files
+P CSWlibxml2-2 libxml2_2 - XML Parser Library

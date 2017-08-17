@@ -1,0 +1,7 @@
+I CSWpuppet
+I CSWpuppetmaster
+I CSWpuppet3
+I CSWpuppetmaster3
+P CSWcommon common - common files and dirs for CSW packages
+P CSWhiera hiera - Brief description
+P CSWruby24 ruby24 - Ruby 2.4.x

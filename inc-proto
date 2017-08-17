@@ -1,0 +1,11 @@
+i pkginfo=pkginfo
+i depend=depend
+i postinstall=postinstall
+i checkinstall=checkinstall
+i preinstall=preinstall
+i checkpkg_override=checkpkg_override
+i licence=licence
+s none /var/opt/csw/svc/method/svc-mcollective=/etc/opt/csw/init.d/mcollective
+s none /var/opt/csw/svc/method/svc-cswpuppetd=/etc/opt/csw/init.d/cswpuppetd 
+f none /tmp/puppet.xml 0644 root bin
+f none /tmp/mcollective.xml 0644 root bin

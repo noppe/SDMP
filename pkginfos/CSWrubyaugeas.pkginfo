@@ -1,0 +1,16 @@
+PKG=CSWrubyaugeas
+NAME=ruby_augeas - Augeas Ruby Bindings
+ARCH=i386
+VERSION=0.5.0,REV=2017.08.14
+CATEGORY=application
+VENDOR=http://augeas.net packaged for CSW by Nils Olof Paulsson
+EMAIL=nilpa76@liu.se
+PSTAMP=noppe@test1-20170814132442
+CLASSES=none
+HOTLINE=http://www.opencsw.org/bugtrack/
+OPENCSW_CATALOGNAME=ruby_augeas
+OPENCSW_MODE64=32
+OPENCSW_REPOSITORY=https://svn.code.sf.net/p/gar/code/csw/mgar/pkg/ruby-augeas/trunk@UNCOMMITTED
+OPENCSW_BUNDLE=ruby-augeas
+OPENCSW_OS_RELEASE=SunOS5.10
+OPENCSW_OS_ARCH=i386

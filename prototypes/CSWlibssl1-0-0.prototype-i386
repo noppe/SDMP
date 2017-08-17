@@ -1,0 +1,50 @@
+f none /opt/csw/lib/amd64/libcrypto.so.1.0.0 0555 root bin
+f none /opt/csw/lib/amd64/libssl.so.1.0.0 0555 root bin
+d none /opt/csw/lib/amd64/openssl-1.0.0 0755 root bin
+d none /opt/csw/lib/amd64/openssl-1.0.0/engines 0755 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/lib4758cca.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libaep.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libatalla.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libcapi.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libchil.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libcswift.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libgmp.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libgost.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libnuron.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libpadlock.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libpk11.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libsureware.so 0555 root bin
+f none /opt/csw/lib/amd64/openssl-1.0.0/engines/libubsec.so 0555 root bin
+f none /opt/csw/lib/libcrypto.so.1.0.0 0555 root bin
+f none /opt/csw/lib/libssl.so.1.0.0 0555 root bin
+d none /opt/csw/lib/openssl-1.0.0 0755 root bin
+d none /opt/csw/lib/openssl-1.0.0/engines 0755 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/lib4758cca.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libaep.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libatalla.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libcapi.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libchil.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libcswift.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libgmp.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libgost.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libnuron.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libpadlock.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libpk11.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libsureware.so 0555 root bin
+f none /opt/csw/lib/openssl-1.0.0/engines/libubsec.so 0555 root bin
+d none /opt/csw/share/doc/libssl1_0_0 0755 root bin
+f none /opt/csw/share/doc/libssl1_0_0/CHANGES 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/CHANGES.SSLeay 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/FAQ 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/INSTALL 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/NEWS 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/PROBLEMS 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/README 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/README.ASN1 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/README.CSW 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/README.ENGINE 0644 root bin
+f none /opt/csw/share/doc/libssl1_0_0/license 0644 root bin
+i checkpkg_override=checkpkg_override.CSWlibssl1-0-0
+i copyright=CSWlibssl1-0-0.copyright
+i depend=CSWlibssl1-0-0.depend
+i pkginfo=CSWlibssl1-0-0.pkginfo

@@ -1,0 +1,16 @@
+PKG=CSWhiera
+NAME=hiera - Brief description
+ARCH=all
+VERSION=1.3.4,REV=2017.08.11
+CATEGORY=application
+VENDOR=http://downloads.puppetlabs.com/hiera/ packaged for CSW by Nils Olof Paulsson
+EMAIL=nilpa76@liu.se
+PSTAMP=noppe@test1-20170811133739
+CLASSES=none
+HOTLINE=http://www.opencsw.org/bugtrack/
+OPENCSW_CATALOGNAME=hiera
+OPENCSW_MODE64=32
+OPENCSW_REPOSITORY=https://svn.code.sf.net/p/gar/code/csw/mgar/pkg/hiera/trunk@UNCOMMITTED
+OPENCSW_BUNDLE=hiera
+OPENCSW_OS_RELEASE=SunOS5.10
+OPENCSW_OS_ARCH=i386

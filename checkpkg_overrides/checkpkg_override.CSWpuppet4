@@ -1,0 +1,10 @@
+CSWpuppet4: surplus-dependency CSWfacter2
+CSWpuppet4: surplus-dependency CSWhiera
+CSWpuppet4: surplus-dependency CSWrubyaugeas
+CSWpuppet4: file-with-bad-content
+CSWpuppet4: bad-location-of-file file=/etc/puppet
+CSWpuppet4: bad-location-of-file file=/etc/puppet/README.CSW
+CSWpuppet4: bad-location-of-file file=/etc/puppet/puppet.conf.example-CSW
+CSWpuppet4: bad-location-of-file file=/var/lib
+CSWpuppet4: bad-location-of-file file=/var/lib/puppet
+CSWpuppet4: file-collision

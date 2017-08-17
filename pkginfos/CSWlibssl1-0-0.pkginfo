@@ -1,0 +1,16 @@
+PKG=CSWlibssl1-0-0
+NAME=libssl1_0_0 - Openssl 1.0 runtime libraries
+ARCH=i386
+VERSION=1.0.2l,REV=2017.08.11
+CATEGORY=application
+VENDOR=http://www.openssl.org/source/ packaged for CSW by Nils Olof Paulsson
+EMAIL=nilpa76@liu.se
+PSTAMP=noppe@test1-20170811131523
+CLASSES=none
+HOTLINE=http://www.opencsw.org/bugtrack/
+OPENCSW_CATALOGNAME=libssl1_0_0
+OPENCSW_MODE64=32/64/isaexec
+OPENCSW_REPOSITORY=https://svn.code.sf.net/p/gar/code/csw/mgar/pkg/openssl1/trunk@UNCOMMITTED
+OPENCSW_BUNDLE=openssl
+OPENCSW_OS_RELEASE=SunOS5.10
+OPENCSW_OS_ARCH=i386

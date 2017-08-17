@@ -1,0 +1,16 @@
+PKG=CSWruby24
+NAME=ruby24 - Ruby 2.4.x
+ARCH=i386
+VERSION=2.4.1,REV=2017.08.11
+CATEGORY=application
+VENDOR=ftp://ftp.ruby-lang.org/pub/ruby/2.4/ packaged for CSW by Nils Olof Paulsson
+EMAIL=nilpa76@liu.se
+PSTAMP=noppe@test1-20170811133013
+CLASSES=none
+HOTLINE=http://www.opencsw.org/bugtrack/
+OPENCSW_CATALOGNAME=ruby24
+OPENCSW_MODE64=32
+OPENCSW_REPOSITORY=https://svn.code.sf.net/p/gar/code/csw/mgar/pkg/ruby24/trunk@UNCOMMITTED
+OPENCSW_BUNDLE=ruby
+OPENCSW_OS_RELEASE=SunOS5.10
+OPENCSW_OS_ARCH=i386

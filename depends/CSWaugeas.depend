@@ -1,0 +1,4 @@
+P CSWcommon common - common files and dirs for CSW packages
+P CSWlibfa1 libfa1 - The libfa.so.* files
+P CSWlibreadline6 libreadline6 - GNU readline library, libreadline.so.6
+P CSWlibaugeas0 libaugeas0 - The libaugeas.so.* files 

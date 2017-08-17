@@ -1,0 +1,28 @@
+f none /etc/opt/csw/hiera.yaml 0644 root bin
+f none /opt/csw/bin/hiera 0755 root bin
+d none /opt/csw/lib/ruby 0755 root bin
+d none /opt/csw/lib/ruby/site_ruby 0755 root bin
+d none /opt/csw/lib/ruby/site_ruby/2.4.0 0755 root bin
+d none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera 0755 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera.rb 0644 root bin
+d none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/backend 0755 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/backend.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/backend/json_backend.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/backend/yaml_backend.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/config.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/console_logger.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/error.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/fallback_logger.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/filecache.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/interpolate.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/noop_logger.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/puppet_logger.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/recursive_guard.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/util.rb 0644 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/hiera/version.rb 0644 root bin
+d none /opt/csw/share/doc/hiera 0755 root bin
+f none /opt/csw/share/doc/hiera/license 0644 root bin
+i checkpkg_override=checkpkg_override.CSWhiera
+i copyright=CSWhiera.copyright
+i depend=CSWhiera.depend
+i pkginfo=CSWhiera.pkginfo

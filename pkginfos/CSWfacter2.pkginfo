@@ -1,0 +1,16 @@
+PKG=CSWfacter2
+NAME=facter2 - A system fact gatherer
+ARCH=all
+VERSION=2.4.6,REV=2017.08.11
+CATEGORY=application
+VENDOR=http://puppetlabs.com/ packaged for CSW by Nils Olof Paulsson
+EMAIL=nilpa76@liu.se
+PSTAMP=noppe@test1-20170811133655
+CLASSES=none
+HOTLINE=http://www.opencsw.org/bugtrack/
+OPENCSW_CATALOGNAME=facter2
+OPENCSW_MODE64=32
+OPENCSW_REPOSITORY=https://svn.code.sf.net/p/gar/code/csw/mgar/pkg/facter2/trunk@UNCOMMITTED
+OPENCSW_BUNDLE=facter2
+OPENCSW_OS_RELEASE=SunOS5.10
+OPENCSW_OS_ARCH=i386

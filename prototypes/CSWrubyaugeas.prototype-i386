@@ -1,0 +1,12 @@
+d none /opt/csw/lib/ruby 0755 root bin
+d none /opt/csw/lib/ruby/site_ruby 0755 root bin
+d none /opt/csw/lib/ruby/site_ruby/2.4.0 0755 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/augeas.rb 0755 root bin
+d none /opt/csw/lib/ruby/site_ruby/2.4.0/i386-solaris2.10 0755 root bin
+f none /opt/csw/lib/ruby/site_ruby/2.4.0/i386-solaris2.10/_augeas.so 0755 root bin
+d none /opt/csw/share/doc/ruby_augeas 0755 root bin
+f none /opt/csw/share/doc/ruby_augeas/license 0644 root bin
+i checkpkg_override=checkpkg_override.CSWrubyaugeas
+i copyright=CSWrubyaugeas.copyright
+i depend=CSWrubyaugeas.depend
+i pkginfo=CSWrubyaugeas.pkginfo

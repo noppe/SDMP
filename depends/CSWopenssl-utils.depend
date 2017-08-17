@@ -1,0 +1,4 @@
+P CSWcas-preserveconf cas_preserveconf - The preserveconf class action script for CSW packages
+P CSWcommon common - common files and dirs for CSW packages
+P CSWisaexec isaexec - sneaky wrapper around Sun isaexec
+P CSWlibssl1-0-0 libssl1_0_0 - Openssl 1.0 runtime libraries

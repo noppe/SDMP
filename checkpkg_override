@@ -1,0 +1,37 @@
+CSWfacter2: file-with-bad-content /usr/local root/opt/csw/lib/ruby/site_ruby/2.4.0/facter/ssh.rb
+CSWfacter2: file-with-bad-content /usr/local root/opt/csw/lib/ruby/site_ruby/2.4.0/facter/Cfkey.rb
+CSWfacter2: file-with-bad-content /usr/local root/opt/csw/lib/ruby/site_ruby/2.4.0/facter/util/manufacturer.rb
+CSWfacter2: file-collision
+CSWhiera: missing-dependency CSWlibruby1-9-1-1 or CSWruby or CSWruby18 or CSWruby191
+CSWhiera: surplus-dependency CSWruby24
+CSWlibssl1-0-0: shared-lib-pkgname-mismatch file=opt/csw/lib/libcrypto.so.1.0.0 soname=libcrypto.so.1.0.0 pkgname=CSWlibssl1-0-0 expected=CSWlibcrypto1-0-0
+CSWlibssl1-0-0: shared-lib-pkgname-mismatch file=opt/csw/lib/amd64/libcrypto.so.1.0.0 soname=libcrypto.so.1.0.0 pkgname=CSWlibssl1-0-0 expected=CSWlibcrypto1-0-0
+CSWmcollective: file-with-bad-content
+CSWopenssl-utils: missing-dependency CSWperl
+CSWpuppet4: surplus-dependency CSWfacter2
+CSWpuppet4: surplus-dependency CSWhiera
+CSWpuppet4: surplus-dependency CSWrubyaugeas
+CSWpuppet4: file-with-bad-content
+CSWpuppet4: bad-location-of-file file=/etc/puppet
+CSWpuppet4: bad-location-of-file file=/etc/puppet/README.CSW
+CSWpuppet4: bad-location-of-file file=/etc/puppet/puppet.conf.example-CSW
+CSWpuppet4: bad-location-of-file file=/var/lib
+CSWpuppet4: bad-location-of-file file=/var/lib/puppet
+CSWpuppet4: file-collision
+CSWpuppetmaster4: surplus-dependency CSWhiera
+CSWpuppetmaster4: surplus-dependency CSWruby24
+CSWpuppetmaster4: file-collision
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/pathname.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/fileutils.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/shell.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/rubygems/installer.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/rubygems/basic_specification.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/rubygems/specification.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/tkextlib/itcl/setup.rb
+CSWruby24: file-with-bad-content /usr/local root/opt/csw/lib/ruby/2.4.0/tkextlib/itk/setup.rb
+CSWruby24: file-with-bad-content /usr/share root/opt/csw/lib/ruby/2.4.0/open3.rb
+CSWruby24: file-with-bad-content /usr/share root/opt/csw/lib/ruby/2.4.0/tk/dialog.rb
+CSWruby24: shared-lib-package-contains-so-symlink file=/opt/csw/lib/libruby2.4.1.so
+CSWruby24: shared-lib-pkgname-mismatch file=opt/csw/lib/libruby2.4.1.so.2 soname=libruby2.4.1.so.2 pkgname=CSWruby24 expected=CSWlibruby2-4-1-2
+CSWruby24: missing-dependency CSWlibruby1-9-1-1 or CSWruby or CSWruby18 or CSWruby191
+CSWrubyaugeas: catalogname-does-not-match-pkgname pkgname=CSWrubyaugeas catalogname=ruby_augeas expected-catalogname=rubyaugeas

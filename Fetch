@@ -1,0 +1,14 @@
+#!/bin/sh
+
+for f in augeas facter2 openssl1 puppet4 ruby-augeas \
+         ruby24 hiera mcollective  ; do
+  rsync -vl $HOME/opencsw/$f/trunk/work/build-global/*.prototype-i386 prototypes
+  rsync -vl $HOME/opencsw/$f/trunk/work/build-global/*.preinstall preinstalls
+  rsync -vl $HOME/opencsw/$f/trunk/work/build-global/*.postinstall postinstalls
+  rsync -vl $HOME/opencsw/$f/trunk/work/build-global/*.checkinstall checkinstalls
+  rsync -vl $HOME/opencsw/$f/trunk/work/build-global/checkpkg_override.* checkpkg_overrides
+  rsync -vl $HOME/opencsw/$f/trunk/work/build-global/*.depend depends
+  rsync -vl $HOME/opencsw/$f/trunk/work/build-global/*.pkginfo pkginfos
+  rsync -vl $HOME/opencsw/$f/trunk/work/build-global/*.copyright copyrights 
+done
+

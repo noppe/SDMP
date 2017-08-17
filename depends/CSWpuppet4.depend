@@ -1,0 +1,11 @@
+I CSWpuppet
+I CSWpuppetmaster
+I CSWpuppet3
+I CSWpuppetmaster3
+P CSWcas-initsmf cas_initsmf - The initsmf class action script for CSW packages
+P CSWcas-usergroup cas_usergroup - The usergroup class action script for CSW packages
+P CSWcommon common - common files and dirs for CSW packages
+P CSWfacter2 facter2 - A system fact gatherer
+P CSWhiera hiera - Brief description
+P CSWrubyaugeas -
+P CSWruby24 ruby24 - Ruby 2.4.x

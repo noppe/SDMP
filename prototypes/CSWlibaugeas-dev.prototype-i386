@@ -1,0 +1,15 @@
+f none /opt/csw/include/augeas.h 0644 root bin
+f none /opt/csw/include/fa.h 0644 root bin
+s none /opt/csw/lib/amd64/libaugeas.so=libaugeas.so.0.22.0
+s none /opt/csw/lib/amd64/libfa.so=libfa.so.1.4.4
+d none /opt/csw/lib/amd64/pkgconfig 0755 root bin
+f none /opt/csw/lib/amd64/pkgconfig/augeas.pc 0644 root bin
+s none /opt/csw/lib/libaugeas.so=libaugeas.so.0.22.0
+s none /opt/csw/lib/libfa.so=libfa.so.1.4.4
+d none /opt/csw/lib/pkgconfig 0755 root bin
+f none /opt/csw/lib/pkgconfig/augeas.pc 0644 root bin
+d none /opt/csw/share/doc/libaugeas_dev 0755 root bin
+f none /opt/csw/share/doc/libaugeas_dev/license 0644 root bin
+i copyright=CSWlibaugeas-dev.copyright
+i depend=CSWlibaugeas-dev.depend
+i pkginfo=CSWlibaugeas-dev.pkginfo

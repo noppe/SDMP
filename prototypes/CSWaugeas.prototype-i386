@@ -1,0 +1,17 @@
+f none /opt/csw/bin/augparse 0755 root bin
+f none /opt/csw/bin/augtool 0755 root bin
+f none /opt/csw/bin/fadot 0755 root bin
+d none /opt/csw/share/doc/augeas 0755 root bin
+f none /opt/csw/share/doc/augeas/license 0644 root bin
+d none /opt/csw/share/man/man1 0755 root bin
+f none /opt/csw/share/man/man1/augparse.1 0644 root bin
+f none /opt/csw/share/man/man1/augtool.1 0644 root bin
+d none /opt/csw/share/vim 0755 root bin
+d none /opt/csw/share/vim/vimfiles 0755 root bin
+d none /opt/csw/share/vim/vimfiles/ftdetect 0755 root bin
+f none /opt/csw/share/vim/vimfiles/ftdetect/augeas.vim 0644 root bin
+d none /opt/csw/share/vim/vimfiles/syntax 0755 root bin
+f none /opt/csw/share/vim/vimfiles/syntax/augeas.vim 0644 root bin
+i copyright=CSWaugeas.copyright
+i depend=CSWaugeas.depend
+i pkginfo=CSWaugeas.pkginfo
